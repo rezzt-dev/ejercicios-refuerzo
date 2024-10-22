@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Productos>
+    <Producto>
+        <Id>1</Id>
+        <Nombre>Juan</Nombre>
+        <Precio>1.2</Precio>
+        <Stock>12</Stock>
+    </Producto>
+    <Producto>
+        <Id>2</Id>
+        <Nombre>Pepe</Nombre>
+        <Precio>1.4</Precio>
+        <Stock>10</Stock>
+    </Producto>
+    <Producto>
+        <Id>3</Id>
+        <Nombre>GalletasMa</Nombre>
+        <Precio>2.5</Precio>
+        <Stock>3</Stock>
+    </Producto>
+</Productos>
